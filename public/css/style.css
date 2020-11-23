@@ -1,0 +1,27 @@
+body{
+  background-color: rgba(100 ,10, 100, 0.1);
+}
+
+h1.heading{
+    color: teal;
+    text-align: center;
+    font-size: 40px;
+}
+
+input[type="text"]{
+    border: none;
+    background: transparent;
+    font-size: 20px;
+}
+
+p{
+  font-size: 20px;
+  margin-left: 80px;
+  margin-top: -20px;
+}
+
+.add{
+  border-radius: 50%;
+  font-size: 20px;
+  margin-left: 50%;
+}
